@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/img/svg/BeAcademy_logo.svg"/></p>
+
 
 # DevStart - Lista de contatos CRUD
 
@@ -12,11 +12,11 @@
 
 > PHP
 >
-> HTML
+     > HTML
 >
-> CSS
+             > CSS
 >
-> BOOTSTRAP
+                     > BOOTSTRAP
 
 ##
 [BootStrap](https://getbootstrap.com/)
